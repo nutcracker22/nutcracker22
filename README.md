@@ -9,9 +9,10 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 - I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop_OS
 - I am closely following the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone (see https://github.com/Android-Boot-Manager/App)
 
-## What I know
+## What I know (to some extend ;) )
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ## Acknowledgements
@@ -49,6 +50,5 @@ Here are some ideas to get you started:
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 
 -->
