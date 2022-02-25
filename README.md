@@ -9,6 +9,13 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 - I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop_OS
 - I am closely following the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone (see https://github.com/Android-Boot-Manager/App)
 
+## What I know
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+
+
+
 <!--
 **nutcracker22/nutcracker22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,8 +32,6 @@ Here are some ideas to get you started:
 
 
 
-# Hi there 👋 I'm Nick
-[![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
 ## What's up?
 - I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it
 - I work on multi-boot for phones
