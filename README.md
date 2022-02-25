@@ -18,14 +18,16 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 
 ## What I know (to some extend ;) )
 ![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
+
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
+<!--
 ![Selenium](https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg)
-
+-->
 
 ## Acknowledgements
 I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
