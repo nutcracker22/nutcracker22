@@ -25,8 +25,9 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
+<!--
 ![Selenium](https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg)
-
+-->
 
 ## Acknowledgements
 I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
