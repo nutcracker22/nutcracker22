@@ -14,6 +14,8 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 ![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
+## Acknowledgements
+I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
 
 
 <!--
