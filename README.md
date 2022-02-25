@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Steffen
 
 Last year I moved to the UK and in January 2022 I started studying 'Information Technology' at the University of Aberdeen.
+
+[![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
+
 - 🔭 I’m currently working on web development, since this is part of the courses I am taking.
 - 🌱 I’m currently learning Flask, SQLite, Selenium Webdriver, and a couple more.
 - I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop_OS
@@ -19,4 +22,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+# Hi there 👋 I'm Nick
+[![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
+## What's up?
+- I help developing LineageOS for cedric & yggdrasil and I am maintaing a fork of it
+- I work on multi-boot for phones
+- I mod Telegram for Android (Catogram X)
+- I maintain an popular magisk module, microG Installer Revived
+- I have various side projects
+## ... using these languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nift4&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nift4?tab=repositories)
+
+## What I know
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+
 -->
