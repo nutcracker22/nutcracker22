@@ -10,13 +10,16 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 - I am closely following the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone (see https://github.com/Android-Boot-Manager/App)
 
 
+<!--
 ## so far I'm using these languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nutcracker22?tab=repositories)
+-->
 
 
 ## What I know (to some extend ;) )
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
+
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
