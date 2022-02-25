@@ -6,7 +6,7 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 
 - 🔭 I’m currently working on web development, since this is part of the courses I am taking.
 - 🌱 I’m currently learning Flask, SQLite, Selenium Webdriver, and a couple more.
-- ![Antu_distributor-logo-manjaro](https://user-images.githubusercontent.com/99359980/155731598-8196a258-5c68-45c2-8ebf-da4c520d0e9f.svg)
+- ![Antu_distributor-logo-manjaro24](https://user-images.githubusercontent.com/99359980/155731911-55ac3ffe-a071-4352-9e15-bec75d309ccf.png)
 I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop_OS
 - ![web_hi_res_512_small](https://user-images.githubusercontent.com/99359980/155731173-fcc931ce-907b-43d2-befb-1edd364f0d99.png)
 I am closely following the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone (see https://github.com/Android-Boot-Manager/App)
