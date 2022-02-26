@@ -19,6 +19,7 @@ I am closely following the development of Android Boot Manager, an app that help
 ## What I know (to some extend ;) )
 ![Manjaro](https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg" title="Manjaro" alt="Manjaro" height="64"/>&nbsp;
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
