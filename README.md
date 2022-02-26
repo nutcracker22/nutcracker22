@@ -15,6 +15,7 @@ I am closely following the development of Android Boot Manager, an app that help
 ## so far I'm using these languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nutcracker22?tab=repositories)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&theme=tokyonight)
 
 ## What I know (to some extend ;) )
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg" title="Manjaro" alt="Manjaro" height="64"/>&nbsp;
