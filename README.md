@@ -13,9 +13,8 @@ I am closely following the development of Android Boot Manager, an app that help
 
 
 ## so far I'm using these languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/nutcracker22?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&layout=compact&langs_count=10&theme=swift)](https://github.com/nutcracker22?tab=repositories)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&theme=tokyonight)
 
 ## What I know (to some extend ;) )
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg" title="Manjaro" alt="Manjaro" height="64"/>&nbsp;
@@ -26,9 +25,7 @@ I am closely following the development of Android Boot Manager, an app that help
 ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
 ![behave](https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg)
-<!--
-![Selenium](https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg)
--->
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" title="Selenium" alt="Selenium" height="64"/>&nbsp;
 
 ## Acknowledgements
 I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
