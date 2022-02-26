@@ -11,8 +11,9 @@ I like the following operating systems: Manjaro, Linux Mint (since that has been
 - ![web_hi_res_512_small](https://user-images.githubusercontent.com/99359980/155731173-fcc931ce-907b-43d2-befb-1edd364f0d99.png)
 I am closely following the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone (see https://github.com/Android-Boot-Manager/App)
 
-
+<!--
 ## so far I'm using these languages
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutcracker22&layout=compact&langs_count=10&theme=swift)](https://github.com/nutcracker22?tab=repositories)
 
 
