@@ -5,7 +5,7 @@ Last year I moved to the UK and in January 2022 I started studying 'Information 
 [![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
 
 - 🔭 I’m currently working on web development, since this is part of the courses I am taking.
-- 🌱 I’m currently learning Flask, SQLite, Selenium Webdriver, and a couple more.
+- 🌱 I’m currently learning Django, Flask, SQLite, Selenium Webdriver, and a couple more.
 - ![Antu_distributor-logo-manjaro24](https://user-images.githubusercontent.com/99359980/155731911-55ac3ffe-a071-4352-9e15-bec75d309ccf.png)
 I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop_OS
 - ![web_hi_res_512_small](https://user-images.githubusercontent.com/99359980/155731173-fcc931ce-907b-43d2-befb-1edd364f0d99.png)
@@ -28,6 +28,7 @@ I am closely following the development of Android Boot Manager, an app that help
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
 ![behave](https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg)
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" title="Selenium" alt="Selenium" height="64"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" height="64"/>&nbsp;
 
 ## Acknowledgements
 I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
