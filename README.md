@@ -20,6 +20,8 @@ I am closely following the development of Android Boot Manager, an app that help
 
 ## What I know (to some extend ;) )
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Manjaro_logo_text.svg" title="Manjaro" alt="Manjaro" height="64"/>&nbsp;
+<img src="https://github.com/lukas-w/font-logos/blob/master/vectors/pop-os.svg" title="Pop!_OS" alt="Pop!_OS" height="64"/>&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/linux-mint.svg" title="Linux_Mint" alt="Linux_Mint" height="64"/>&nbsp;
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
