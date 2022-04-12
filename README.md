@@ -25,11 +25,11 @@ I am closely following the development of Android Boot Manager, an app that help
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" height="64"/>&nbsp;
 ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
 ![behave](https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg)
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" title="Selenium" alt="Selenium" height="64"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" height="64"/>&nbsp;
 
 ## Acknowledgements
 I could improve this readme.md a lot by looking at https://github.com/nift4. Thanks a lot, Nick.
