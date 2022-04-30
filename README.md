@@ -28,6 +28,7 @@ I am closely following the development of Android Boot Manager, an app that help
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" title="Django" alt="Django" height="64"/>&nbsp;
 ![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)
 ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)
+<img src"https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" title="PostgreSQL" alt="PostgreSQL" height="64"/>&nbsp;
 ![behave](https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg)
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/selenium.svg" title="Selenium" alt="Selenium" height="64"/>&nbsp;
 
