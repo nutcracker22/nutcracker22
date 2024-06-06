@@ -4,12 +4,10 @@ I am currently living in the UK and working as a software developer.
 
 [![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
 
-- 🔭 I’m mainly working on web applications (work and hobby), as well as mobile app development (hobby), both as full-stack development.
+- I’m mainly working on web applications (work and hobby), as well as mobile app development (hobby), both as full-stack development.
 - I used to code webscrapers, using Selenium for browser automation and BeautifulSoup to retrieve data from the websites, for example for [Open Data Scotland](https://opendata.scot/) (and on [GitHub](https://github.com/OpenDataScotland)).
-- ![Antu_distributor-logo-manjaro24](https://user-images.githubusercontent.com/99359980/155731911-55ac3ffe-a071-4352-9e15-bec75d309ccf.png)
-I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop!_OS
-- ![web_hi_res_512_small](https://user-images.githubusercontent.com/99359980/155731173-fcc931ce-907b-43d2-befb-1edd364f0d99.png)
-I closely follow the development of Android Boot Manager, an app that helps you install and multi-boot different operating systems on your mobile phone, and I was one of the first testers (see https://github.com/Android-Boot-Manager/App)
+- I like the following operating systems: Manjaro ![Antu_distributor-logo-manjaro24](https://user-images.githubusercontent.com/99359980/155731911-55ac3ffe-a071-4352-9e15-bec75d309ccf.png), Linux Mint (since that has been the first Linux distro I ever used), and Pop!_OS
+- I closely follow the development of Android Boot Manager ![web_hi_res_512_small](https://user-images.githubusercontent.com/99359980/155731173-fcc931ce-907b-43d2-befb-1edd364f0d99.png), an app that helps you install and multi-boot different operating systems on your mobile phone, and I was one of the first testers (see https://github.com/Android-Boot-Manager/App)
 
 <!--
 ## so far I'm using these languages
