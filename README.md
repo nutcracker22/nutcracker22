@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steffen
 
-I am currently living in the UK and recently started to work as a software developer.
+I am currently living in the UK and working as a software developer.
 
 [![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
 
