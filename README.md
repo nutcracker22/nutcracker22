@@ -4,7 +4,7 @@ I am currently living in the UK and working as a software developer.
 
 [![nutcrackers's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutcracker22&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/nutcracker22)
 
-- 🔭 I’m currently working on web development.
+- 🔭 I’m mainly working on web applications (work and hobby), as well as mobile app development (hobby), both as full-stack development.
 - I used to code webscrapers, using Selenium for browser automation and BeautifulSoup to retrieve data from the websites, for example for [Open Data Scotland](https://opendata.scot/) (and on [GitHub](https://github.com/OpenDataScotland)).
 - ![Antu_distributor-logo-manjaro24](https://user-images.githubusercontent.com/99359980/155731911-55ac3ffe-a071-4352-9e15-bec75d309ccf.png)
 I like the following operating systems: Manjaro, Linux Mint (since that has been the first Linux distro I ever used), and Pop!_OS
